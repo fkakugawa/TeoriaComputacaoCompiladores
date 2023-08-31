@@ -1,6 +1,10 @@
 # Teoria Computacao Compiladores
-Repositório de material de aulas da UC de Teoria da Computação e Compiladores da Anhembi Morumbi 2023-2
-
-Bem vindo ao repositório de material de aulas
- 
-**Em breve os materiais serão disponibilizados**
+<h2>Prof. Fernando Kakugawa</h2>
+Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakugawa@animaeducacao.com.br</a><br>
+<br>
+><h3><Strong>Aula 01 - Introdução aos conceitos de compiladores
+<p><a href="https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula02_EstruturaCompilador.pdf">Material de aula</a></p>
+<br>
+><h3><Strong>Aula 02 - Autômato Finito Deterministico - AFD
+<p><a href="https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula02-AF_AFD.pdf">Material de aula</a></p> 
+<p><a href="https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula02-ExerciciosAFD.pdf">Lista de exercícios</a></p> 
