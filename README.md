@@ -1,4 +1,4 @@
-# Teoria Computacao e Compiladores - Paulista Noturno
+# Teoria Computação e Compiladores - Paulista Noturno
 <h2>Prof. Fernando Kakugawa</h2>
 Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakugawa@animaeducacao.com.br</a><br>
 <br>
