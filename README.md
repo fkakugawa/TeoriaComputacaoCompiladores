@@ -10,3 +10,5 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 <p><a href="https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula02-AF_AFD.pdf">Material de aula</a></p>
 <p><a href="https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula02-ExerciciosAFD.pdf">Lista de exercícios</a></p>
 
+><h3><Strong>Aula 03 - Análise Léxica
+[Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula03_AnaliseLexica.pdf)
