@@ -16,6 +16,7 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 [Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula03_AnaliseLexica.pdf)
 
 [Lista de exercícios](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula03_ExercicioAL.pdf)
+<br>
 
 ><h3><Strong>Descrição A3
 
