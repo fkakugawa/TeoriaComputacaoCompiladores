@@ -17,3 +17,12 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 
 [Lista de exercícios](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula03_ExercicioAL.pdf)
 
+><h3><Strong>Descrição A3
+
+[Descrição A3](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/DescricaoA3.pdf)
+
+[AntLR](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/AntLR.zip)
+
+[Configurando AntLR](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/Configurar%20AntLR.pdf)
+
+[Insturções para utilizar o AntLR](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/Instru%C3%A7oes_AntLR.pdf)
