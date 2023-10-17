@@ -16,11 +16,13 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 [Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula03_AnaliseLexica.pdf)
 
 [Lista de exercícios](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula03_ExercicioAL.pdf)
+
 <br>
 
 ><h3><Strong>Sobre a Atividade A3
 
 [Descrição A3](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/DescricaoA3.pdf)
+
 <br>
 
 ><h3><Strong>ANTLR (ANother Tool for Language Recognition)
@@ -32,7 +34,9 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 [Insturções para utilizar o AntLR](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/Instru%C3%A7oes_AntLR.pdf)
 
 [Sobre o AntLR](https://www.antlr.org/index.html)
+
 <br>
 
 ><h3><Strong>Aula 04 - Gramática Livre de Contexto
+
 [Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula04-GramaticaLivreContexto.pdf)
