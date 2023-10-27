@@ -35,8 +35,20 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 
 [Sobre o AntLR](https://www.antlr.org/index.html)
 
+[Primeiro exemplo de gramática](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/tree/main/ExemploGramatica)
+
 <br>
 
 ><h3><Strong>Aula 04 - Gramática Livre de Contexto
 
 [Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula04-GramaticaLivreContexto.pdf)
+
+<br>
+
+><h3><Strong>Aula 05 - Análise Sintática
+
+[Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula05_AnaliseSintatica.pdf)
+
+[Exemplo do descendente recursivo](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/DescendenteRecursivo.txt)
+
+
