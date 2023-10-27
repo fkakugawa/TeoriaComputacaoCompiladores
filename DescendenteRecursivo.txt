@@ -1,0 +1,75 @@
+Programa de Analise Sintática
+
+Gramática
+
+<expr>		-> <expr_c> EOF
+<expr_c>	-> <termo> {+<expr_c>}* 
+<termo>		-> <fator> {*<termo>}*
+<fator> 	-> <primario> {**<fator>}*
+<primario>	->  IDENT | NUMERO | (<expr_c>)
+
+Procedimento analisador sintatico{
+	obtenha_simbolo();  /* chama o léxico */
+	EXPR();
+}
+
+Procedimento EXPR() {
+	EXPR_C();
+	se símbolo_lido = EOF {
+		/* Programa finalizado com sucesso */
+	senão{
+		/* erro de fim de arquivo */
+	}
+}
+
+Procedimento EXPR_C() {
+	TERMO();
+    enquanto símbolo_lido = '+' {
+		obtenha_simbolo();
+		EXPR_C();
+	}
+}
+
+Procedimento TERMO() {
+	FATOR();
+	enquanto símbolo_lido = '*' {
+		obtenha_simbolo();
+		TERMO();
+	}
+}
+
+Procedimento FATOR() {
+	PRIMARIO();
+	enquanto símbolo_lido = '**' {
+		obtenha_simbolo();
+		FATOR();
+	}
+}
+
+Procedimento PRIMARIO() {
+	se símbolo_lido = IDENT então {
+		/* trate adequadamente um identificador */
+		obtenha_simbolo();
+	}
+	senão {
+		se símbolo_lido = NUMERO então {
+			/* trate adequadamente um numero */
+			obtenha_simbolo();
+		}
+		senão{
+			se símbolo_lido = '(' então {
+				obtenha_simbolo();
+				EXPR_C();
+				se símbolo_lido != ')' então {
+					ERRO("Falta )");
+				}
+				senão {
+					obtenha_simbolo();
+				}
+			}
+			senão{
+				ERRO("Token inesperado")
+			}
+		}
+	}
+}
