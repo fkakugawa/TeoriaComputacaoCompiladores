@@ -49,6 +49,6 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 
 [Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula05_AnaliseSintatica.pdf)
 
-[Exemplo do descendente recursivo](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/DescendenteRecursivo.txt)
+[Exemplo de um descendente recursivo](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/DescendenteRecursivo.txt)
 
 
