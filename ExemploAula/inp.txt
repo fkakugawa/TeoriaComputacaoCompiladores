@@ -1,0 +1,4 @@
+inicio
+	numero bola;
+	bola = 10;
+fim
