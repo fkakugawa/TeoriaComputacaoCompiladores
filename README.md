@@ -51,4 +51,6 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 
 [Exemplo de um descendente recursivo](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/DescendenteRecursivo.txt)
 
+[Exemplo de gramática com geração de código em Java](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/tree/main/ExemploAula)
+
 
