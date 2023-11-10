@@ -53,4 +53,10 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 
 [Exemplo de gramática com geração de código em Java](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/tree/main/ExemploAula)
 
+<br>
 
+><h3><Strong>Aula 06 - Análise Semântica
+
+[Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula06_AnaliseSemantica.pdf)
+
+[Exemplo de gramática realizando análise semântica](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/tree/main/ExemploAnaliseSemantica)
