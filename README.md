@@ -60,3 +60,5 @@ Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakuga
 [Material de aula](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula06_AnaliseSemantica.pdf)
 
 [Exemplo de gramática realizando análise semântica](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/tree/main/ExemploAnaliseSemantica)
+
+[Gramática alterada em aula, realizando outras análises semântica e geração parcial de código em Java](https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/ExemploAnaliseSemantica/variaveis_2.g4)
