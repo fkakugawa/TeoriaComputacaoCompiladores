@@ -1,6 +1,6 @@
-# Teoria da Computação e Compiladores - Paulista Noturno
+# Teoria da Computação e Compiladores
 <h2>Prof. Fernando Kakugawa</h2>
-Contato: <a href="mailto:fernando.kakugawa@animaeducacao.com.br">fernando.kakugawa@animaeducacao.com.br</a><br>
+Contato: <a href="mailto:fkakugawa@gmail.com">fkakugawa@gmail.com</a><br>
 <br>
 ><h3><Strong>Aula 01 - Introdução aos conceitos de compiladores
 <p><a href="https://github.com/fkakugawa/TeoriaComputacaoCompiladores/blob/main/TCC_Aula02_EstruturaCompilador.pdf">Material de aula</a></p>
